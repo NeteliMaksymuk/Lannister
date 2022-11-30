@@ -85,7 +85,6 @@ DATABASES = {
         "PASSWORD": os.environ.get("POSTGRES_PASSWORD"),
         "HOST": "lannister_db",
         "PORT": 5432,
-
     }
 }
 
