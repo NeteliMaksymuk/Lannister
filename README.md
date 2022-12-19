@@ -364,5 +364,7 @@ Return:
 
 ### Database diagram
 
+![image info](./img.png)
 
-<iframe width="560" height="315" src="https://dbdiagram.io/embed/637377a5c9abfc611172c766"> </iframe>
+Or link of database
+https://dbdiagram.io/embed/637377a5c9abfc611172c766
